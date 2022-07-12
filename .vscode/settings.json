@@ -6,7 +6,15 @@
         "stdexcept": "cpp",
         "array": "cpp",
         "ostream": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "unordered_set": "cpp",
+        "set": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "string_view": "cpp",
+        "map": "cpp",
+        "compare": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
